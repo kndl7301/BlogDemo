@@ -1,0 +1,8 @@
+C:\Users\kendal\source\repos\CoreDemo\CoreDemo\obj\Debug\net5.0\welat.csproj.AssemblyReference.cache
+C:\Users\kendal\source\repos\CoreDemo\CoreDemo\obj\Debug\net5.0\welat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kendal\source\repos\CoreDemo\CoreDemo\obj\Debug\net5.0\welat.AssemblyInfoInputs.cache
+C:\Users\kendal\source\repos\CoreDemo\CoreDemo\obj\Debug\net5.0\welat.AssemblyInfo.cs
+C:\Users\kendal\source\repos\CoreDemo\CoreDemo\obj\Debug\net5.0\welat.csproj.CoreCompileInputs.cache
+C:\Users\kendal\source\repos\CoreDemo\CoreDemo\obj\Debug\net5.0\welat.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kendal\source\repos\CoreDemo\CoreDemo\obj\Debug\net5.0\welat.RazorAssemblyInfo.cache
+C:\Users\kendal\source\repos\CoreDemo\CoreDemo\obj\Debug\net5.0\welat.RazorAssemblyInfo.cs

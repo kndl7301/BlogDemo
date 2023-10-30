@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\kendal\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\kendal\\.nuget\\packages"
+    ]
+  }
+}

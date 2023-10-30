@@ -1,0 +1,17 @@
+C:\Users\kendal\source\repos\CoreDemo\BussinesssLayer\bin\Debug\net5.0\BussinesssLayer.deps.json
+C:\Users\kendal\source\repos\CoreDemo\BussinesssLayer\bin\Debug\net5.0\BussinesssLayer.dll
+C:\Users\kendal\source\repos\CoreDemo\BussinesssLayer\bin\Debug\net5.0\BussinesssLayer.pdb
+C:\Users\kendal\source\repos\CoreDemo\BussinesssLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\kendal\source\repos\CoreDemo\BussinesssLayer\bin\Debug\net5.0\EntitiyLayer.dll
+C:\Users\kendal\source\repos\CoreDemo\BussinesssLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\kendal\source\repos\CoreDemo\BussinesssLayer\bin\Debug\net5.0\EntitiyLayer.pdb
+C:\Users\kendal\source\repos\CoreDemo\BussinesssLayer\obj\Debug\net5.0\BussinesssLayer.csproj.AssemblyReference.cache
+C:\Users\kendal\source\repos\CoreDemo\BussinesssLayer\obj\Debug\net5.0\BussinesssLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kendal\source\repos\CoreDemo\BussinesssLayer\obj\Debug\net5.0\BussinesssLayer.AssemblyInfoInputs.cache
+C:\Users\kendal\source\repos\CoreDemo\BussinesssLayer\obj\Debug\net5.0\BussinesssLayer.AssemblyInfo.cs
+C:\Users\kendal\source\repos\CoreDemo\BussinesssLayer\obj\Debug\net5.0\BussinesssLayer.csproj.CoreCompileInputs.cache
+C:\Users\kendal\source\repos\CoreDemo\BussinesssLayer\obj\Debug\net5.0\BussinesssLayer.csproj.CopyComplete
+C:\Users\kendal\source\repos\CoreDemo\BussinesssLayer\obj\Debug\net5.0\BussinesssLayer.dll
+C:\Users\kendal\source\repos\CoreDemo\BussinesssLayer\obj\Debug\net5.0\refint\BussinesssLayer.dll
+C:\Users\kendal\source\repos\CoreDemo\BussinesssLayer\obj\Debug\net5.0\BussinesssLayer.pdb
+C:\Users\kendal\source\repos\CoreDemo\BussinesssLayer\obj\Debug\net5.0\ref\BussinesssLayer.dll

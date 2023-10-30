@@ -1,0 +1,11 @@
+C:\Users\kendal\source\repos\CoreDemo\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.deps.json
+C:\Users\kendal\source\repos\CoreDemo\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.dll
+C:\Users\kendal\source\repos\CoreDemo\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.pdb
+C:\Users\kendal\source\repos\CoreDemo\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kendal\source\repos\CoreDemo\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.AssemblyInfoInputs.cache
+C:\Users\kendal\source\repos\CoreDemo\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.AssemblyInfo.cs
+C:\Users\kendal\source\repos\CoreDemo\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.csproj.CoreCompileInputs.cache
+C:\Users\kendal\source\repos\CoreDemo\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.dll
+C:\Users\kendal\source\repos\CoreDemo\EntitiyLayer\obj\Debug\net5.0\refint\EntitiyLayer.dll
+C:\Users\kendal\source\repos\CoreDemo\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.pdb
+C:\Users\kendal\source\repos\CoreDemo\EntitiyLayer\obj\Debug\net5.0\ref\EntitiyLayer.dll
