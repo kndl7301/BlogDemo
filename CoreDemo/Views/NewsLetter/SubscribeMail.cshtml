@@ -1,0 +1,46 @@
+﻿<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+<div class="tech-btm">
+    <h4 style="color:white">Mail Bültenine Abone Olun</h4>
+	<p>Teknoloji yazılım ve diğer bloglar ... </p>
+
+    <form id="subscribeForm" method="post">
+        <input type="email" placeholder="Email" required="" name="Mail">
+        <input type="button" class="btn btn-success form form-control"  value="Abone Ol" onclick="submitForm()">
+    </form>
+
+</div>	
+
+
+
+
+<script>
+    function submitForm() {
+        var form = document.getElementById("subscribeForm");
+
+        // Collect form data
+        var formData = new FormData(form);
+
+        // You can add additional data to the form if needed
+        // formData.append("additionalParam", "additionalValue");
+
+        // Send a POST request using Fetch API
+        fetch("/NewsLetter/SubscribeMail/", {
+            method: "POST",
+            body: formData
+        })
+            .then(response => response.json())
+            .then(data => {
+                // Handle the response as needed
+                console.log(data);
+            })
+            .catch(error => {
+                console.error('Error:', error);
+            });
+        Swal.fire({
+            
+            title: "Abone Olundu!",
+            icon: "success"
+        });
+    }
+</script>

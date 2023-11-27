@@ -1,0 +1,51 @@
+﻿<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+
+<div class="comment-top">
+	<h4>Yorum Yapın</h4>
+	<div class="comment-bottom">
+
+        <form id="commentForm">
+            <input class="form-control" type="text" name="CommentUserName" placeholder="Ad Soyad" required="">
+            <input class="form-control" type="email" name="Email" placeholder="Email" required="">
+            <input class="form-control" type="text" name="CommentTitle" placeholder="Konu" required="">
+            <textarea class="form-control" name="CommentContent" placeholder="Message..." required=""></textarea>
+            <button type="button" class="btn btn-primary submit form-check form-control" onclick="YorumForm()">Yorum Yap</button>
+        </form>
+
+        <script>
+            function YorumForm() {
+                var form = document.getElementById("commentForm");
+
+                // Collect form data
+                var formData = new FormData(form);
+
+                // You can add additional data to the form if needed
+                // formData.append("additionalParam", "additionalValue");
+
+                // Send a POST request using Fetch API
+                fetch("/Comment/PartialAddComment/", {
+                    method: "POST",
+                    body: formData
+                })
+                    .then(response => response.json())
+                    .then(data => {
+                        // Handle the response as needed
+                        console.log(data);
+                    })
+                    .catch(error => {
+                        console.error('Error:', error);
+                    });
+
+                Swal.fire({
+
+                    title: "Yorum Başarılı Bir Şekilde Eklendi!",
+                    icon: "success"
+                });
+            }
+        </script>
+
+	</div>
+</div>
+
+

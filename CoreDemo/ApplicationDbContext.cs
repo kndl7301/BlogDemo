@@ -1,6 +1,6 @@
 ﻿namespace CoreDemo
 {
-    internal class ApplicationDbContext
+    public class ApplicationDbContext
     {
     }
 }

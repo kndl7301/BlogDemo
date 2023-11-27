@@ -11,15 +11,17 @@ namespace DataAccessLayer.Concrete
     public class Context:DbContext
     {
 
-        public Context(DbContextOptions<Context> options) : base(options)
+        protected Context(DbContextOptions<Context> options) : base(options)
         {
         }
 
-        public Context()
-        {
-        }
+		public Context()
+		{
+		}
+        
+		
 
-        protected override void OnConfiguring(DbContextOptionsBuilder
+		protected override void OnConfiguring(DbContextOptionsBuilder
     optionsBuilder)
         {
             if (!optionsBuilder.IsConfigured)
@@ -34,6 +36,7 @@ namespace DataAccessLayer.Concrete
         public DbSet<Comment> Comments { get; set; }
         public DbSet<Contact> Contacts { get; set; }
         public DbSet<Writer> Writers { get; set; }
+        public DbSet<NewsLetter> NewsLetters { get; set; }
 
 
      
